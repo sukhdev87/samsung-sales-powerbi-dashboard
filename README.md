@@ -46,5 +46,5 @@ Data Analyst portfolio to demonstrate real-world business intelligence skills.
 
 ## 👤 Author
 **Sukhi**  
-Aspiring Data Analyst | Power BI • Excel • Python  
-📧 [Your Email] | 🔗 [Your LinkedIn]
+Data Analyst | Power BI • Excel • Python  
+
